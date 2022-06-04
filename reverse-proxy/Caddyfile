@@ -1,0 +1,8 @@
+{
+    http_port 880
+    https_port 4443
+}
+
+banning.duckdns.org {
+    ...
+}
